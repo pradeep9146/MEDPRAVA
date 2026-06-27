@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226295221909",
+    "project_id": "medprava-3105d",
+    "storage_bucket": "medprava-3105d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226295221909:android:5dc59d0c793ff14959159c",
+        "android_client_info": {
+          "package_name": "com.medprava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IhpxeQ7weJfiiMnmy9AN0GJe5cWAKJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
