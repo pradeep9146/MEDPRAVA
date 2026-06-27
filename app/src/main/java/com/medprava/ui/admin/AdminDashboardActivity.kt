@@ -5,9 +5,8 @@ import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.google.android.material.snackbar.Snackbar
-import com.medprava.R
-import com.medprava.data.repository.AuthRepository
 import com.medprava.databinding.ActivityAdminDashboardBinding
+import com.medprava.data.repository.AuthRepository
 import com.medprava.util.PreferenceManager
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch

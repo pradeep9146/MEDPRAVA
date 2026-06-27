@@ -1,0 +1,46 @@
+# Credentials and sensitive data should not be committed
+# Add your google-services.json file manually after cloning
+
+# Build outputs
+build/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+
+# Local configuration file
+local.properties
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+gen/
+out/
+.externalNativeBuild/
+.cxx/
+
+# Debug
+*.jks
+*.keystore
+
+# Firebase config
+google-services.json
